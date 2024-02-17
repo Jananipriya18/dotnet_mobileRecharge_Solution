@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetapp", "dotnetapp.csproj", "{791CDD49-0A7B-4858-AEBE-E35AD4E14959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{8A770FCC-BEC1-4804-A400-2B047AD19156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{791CDD49-0A7B-4858-AEBE-E35AD4E14959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791CDD49-0A7B-4858-AEBE-E35AD4E14959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791CDD49-0A7B-4858-AEBE-E35AD4E14959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791CDD49-0A7B-4858-AEBE-E35AD4E14959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A770FCC-BEC1-4804-A400-2B047AD19156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A770FCC-BEC1-4804-A400-2B047AD19156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A770FCC-BEC1-4804-A400-2B047AD19156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A770FCC-BEC1-4804-A400-2B047AD19156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
